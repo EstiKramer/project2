@@ -1,0 +1,8 @@
+.map{
+    display: flex;
+    height: 200px;
+    width: 1000px;
+    display: flex;
+    margin: auto;
+    box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.2);
+}
